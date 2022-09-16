@@ -3,11 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32811.315
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "Services\Services.csproj", "{F1361759-D4E6-4E85-B132-1776714825BC}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{AF5DC210-E7D0-4490-A464-5D0739DFA939}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WEB-API", "WEB-API\WEB-API.csproj", "{89C5F8CE-B4B6-43D7-873E-DCF19D7A43F2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WEB-API", "WEB-API\WEB-API.csproj", "{89C5F8CE-B4B6-43D7-873E-DCF19D7A43F2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,14 +11,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{F1361759-D4E6-4E85-B132-1776714825BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F1361759-D4E6-4E85-B132-1776714825BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F1361759-D4E6-4E85-B132-1776714825BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F1361759-D4E6-4E85-B132-1776714825BC}.Release|Any CPU.Build.0 = Release|Any CPU
-		{AF5DC210-E7D0-4490-A464-5D0739DFA939}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AF5DC210-E7D0-4490-A464-5D0739DFA939}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AF5DC210-E7D0-4490-A464-5D0739DFA939}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AF5DC210-E7D0-4490-A464-5D0739DFA939}.Release|Any CPU.Build.0 = Release|Any CPU
 		{89C5F8CE-B4B6-43D7-873E-DCF19D7A43F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{89C5F8CE-B4B6-43D7-873E-DCF19D7A43F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{89C5F8CE-B4B6-43D7-873E-DCF19D7A43F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
